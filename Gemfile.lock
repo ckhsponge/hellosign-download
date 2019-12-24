@@ -1,0 +1,22 @@
+GEM
+  specs:
+    faraday (0.15.4)
+      multipart-post (>= 1.2, < 3)
+    hellosign-ruby-sdk (3.2.15)
+      faraday
+      mime-types
+      multi_json
+    mime-types (3.2.2)
+      mime-types-data (~> 3.2015)
+    mime-types-data (3.2018.0812)
+    multi_json (1.13.1)
+    multipart-post (2.0.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  hellosign-ruby-sdk (~> 3.2.0)
+
+BUNDLED WITH
+   2.0.1
